@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+    line-height: 1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    float: right;
+    margin-top: 6px;
+    margin-right: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    list-style: none;
+}
+
+li{
+    float: left;
+    margin-left: 3px;
+}
+
+#menu{
+    overflow: hidden;
+    border-bottom: 1px solid red;
+}
+
+#menu ul li a {
+    float: left;
+    text-decoration: none;
+    letter-spacing: 1px;
+    padding-left: 10px;
+    /* background-position: 0% -250px; */
+}
+
+#menu ul li a span{
+    float: left;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 3px;
+    padding-left: 0px;
+    /* background-position: 100% -250px; */
+}
+
+#menu a:hover{
+    color: red;
+}

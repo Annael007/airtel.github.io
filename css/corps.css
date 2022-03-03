@@ -1,0 +1,13 @@
+#contenu{
+    float: left;
+    width: 80%;
+}
+
+#side{
+    float: left;
+    width: 20%;
+}
+
+#footer{
+    clear: both;
+}

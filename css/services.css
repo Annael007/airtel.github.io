@@ -1,0 +1,57 @@
+.debut{
+    padding: 10px;
+    margin-right: 0px;
+    margin-left: 10px;
+    width: 50%;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 1px 2px 3px red; 
+}
+
+.deb a{
+    color: rgb(223, 51, 59);
+    text-decoration: none;
+}
+
+.netmlay table{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid; 
+    width: 100%;
+    border-left: 0;
+    border-right: 0;
+    border-color: gray;
+}
+
+.mlay{
+    margin: 10px;
+    color: rgb(224, 11, 11);
+}
+
+table tbody tr td a{
+    color: rgb(223, 51, 59);
+    text-decoration: none;
+}
+
+.resnet{
+    margin: 10px;
+}
+
+.resnet a{
+    color: rgb(223, 51, 59);
+    text-decoration: none;
+}
+
+.fb{
+    margin: 10px;
+    color: red;
+}
+
+.resfb{
+    margin: 10px;
+}
+
+.resfb a{
+    color: rgb(223, 51, 59);
+    text-decoration: none;
+}
